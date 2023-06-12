@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: white
+}
+
+body {
+    background-color: black;
+}
+
+li {
+    color: white;
+    list-style-type: none;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: white;
+    padding: 10px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: black
+}
+      
+#formulario {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+h2 {
+    color:white;
+}
+
+#Save{
+    padding: 5px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+}
+
+#Save:hover{
+    background-color: #3e8e41;
+}
